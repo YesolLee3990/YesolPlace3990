@@ -170,16 +170,16 @@
 
                 <td class="container">
                     <div class="bg">
-                        <a href="https://kindergarten3990.azurewebsites.net" target="_blank">
+                        <a href="https://www.food4ukimchi.ca" target="_blank">
                         <asp:Image ID="Image4" runat="server" ImageUrl="~/img/bg1.jpg" Width="300px" />
                         </a>
                             </div>
                     <div class="mid">
-                        <div class="line3"><strong>Kinder Garten<br />
+                        <div class="line3"><strong>The Kimchi<br />
                             ▶▶▶</strong></div>
                     </div>
                     <div class="head">
-                        <asp:Image ID="Image6" runat="server" ImageUrl="~/img/bg13.png" Width="300px" Height="530px" />
+                        <asp:Image ID="Image6" runat="server" ImageUrl="~/img/bg77.png" Width="300px" Height="530px" />
                     </div>
                 </td>
                 <td class="container">
