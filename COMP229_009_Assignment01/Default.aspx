@@ -170,7 +170,7 @@
 
                 <td class="container">
                     <div class="bg">
-                        <a href="https://www.food4ukimchi.ca" target="_blank">
+                        <a href="http://www.food4ukimchi.ca/" target="_blank">
                         <asp:Image ID="Image4" runat="server" ImageUrl="~/img/bg1.jpg" Width="300px" />
                         </a>
                             </div>
