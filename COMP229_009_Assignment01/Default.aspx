@@ -179,7 +179,7 @@
                             ▶▶▶</strong></div>
                     </div>
                     <div class="head">
-                        <asp:Image ID="Image6" runat="server" ImageUrl="~/img/bg77.png" Width="300px" Height="530px" />
+                        <asp:Image ID="Image6" runat="server" ImageUrl="../img/bg77.png" Width="300px" Height="530px" />
                     </div>
                 </td>
                 <td class="container">
