@@ -170,7 +170,7 @@
 
                 <td class="container">
                     <div class="bg">
-                        <a href="http://www.food4ukimchi.ca/" target="_blank">
+                        <a href="https://kindergarten3990.azurewebsites.net" target="_blank">
                         <asp:Image ID="Image4" runat="server" ImageUrl="~/img/bg1.jpg" Width="300px" />
                         </a>
                             </div>
@@ -179,7 +179,7 @@
                             ▶▶▶</strong></div>
                     </div>
                     <div class="head">
-                        <asp:Image ID="Image6" runat="server" ImageUrl="https://postfiles.pstatic.net/MjAxODA5MjVfMjI2/MDAxNTM3ODQ1MTc5MDc3.tC-GJrEiqmrc3cTqLGvR_VvSSH_uoNrwV9e-IDeWH40g.4nvudbitL2GPZ5pVO4c6fsfQBx_nlKXjdwJzVVlKVQUg.PNG.5solg_453/bg77.png?type=w966" Width="300px" Height="530px" />
+                        <asp:Image ID="Image6" runat="server" ImageUrl="~/img/bg12.jpg" Width="300px" Height="530px" />
                     </div>
                 </td>
                 <td class="container">
