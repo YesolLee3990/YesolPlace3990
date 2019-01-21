@@ -180,7 +180,7 @@
                             ▶▶▶</strong></div>
                     </div>
                     <div class="head">
-                        <asp:Image ID="Image6" runat="server" ImageUrl="https://www.shell.com/energy-and-innovation/the-energy-future/scenarios/shell-scenario-sky/_jcr_content/pagePromo/image.img.960.jpeg/1522157123504/clear-blue-sky.jpeg" Width="300px" Height="530px" />
+                        <asp:Image ID="Image6" runat="server" ImageUrl="https://postfiles.pstatic.net/MjAxODA5MjVfMjI2/MDAxNTM3ODQ1MTc5MDc3.tC-GJrEiqmrc3cTqLGvR_VvSSH_uoNrwV9e-IDeWH40g.4nvudbitL2GPZ5pVO4c6fsfQBx_nlKXjdwJzVVlKVQUg.PNG.5solg_453/bg77.png?type=w966" Width="300px" Height="530px" />
                     </div>
                 </td>
                 <td class="container">
