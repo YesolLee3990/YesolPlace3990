@@ -176,7 +176,7 @@
                         </a>
                             </div>
                     <div class="mid">
-                        <div class="line3"><strong>Kinder Garten<br />
+                        <div class="line3"><strong>The Kimchi<br />
                             ▶▶▶</strong></div>
                     </div>
                     <div class="head">
