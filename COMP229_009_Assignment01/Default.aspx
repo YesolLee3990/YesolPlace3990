@@ -180,7 +180,7 @@
                             ▶▶▶</strong></div>
                     </div>
                     <div class="head">
-                        <asp:Image ID="Image6" runat="server" ImageUrl="~/img/thirdImage.png" Width="300px" Height="530px" />
+                        <asp:Image ID="Image6" runat="server" ImageUrl="https://www.shell.com/energy-and-innovation/the-energy-future/scenarios/shell-scenario-sky/_jcr_content/pagePromo/image.img.960.jpeg/1522157123504/clear-blue-sky.jpeg" Width="300px" Height="530px" />
                     </div>
                 </td>
                 <td class="container">
