@@ -170,7 +170,8 @@
 
                 <td class="container">
                     <div class="bg">
-                        <a href="https://kindergarten3990.azurewebsites.net" target="_blank">
+                        <%--<a href="https://kindergarten3990.azurewebsites.net" target="_blank">--%>
+                            <a href="http://www.food4ukimchi.ca/" target="_blank">
                         <asp:Image ID="Image4" runat="server" ImageUrl="~/img/bg1.jpg" Width="300px" />
                         </a>
                             </div>
